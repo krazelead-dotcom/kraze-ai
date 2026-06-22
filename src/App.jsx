@@ -544,8 +544,7 @@ function Contact() {
           <p className="font-display text-2xl font-bold text-white">KRAZE AI</p>
         </div>
         <div className="grid gap-3 text-sm text-white/68">
-          <a href="mailto:hello@krazeai.com" className="flex items-center gap-2 hover:text-white"><Mail size={16} /> hello@krazeai.com</a>
-          <a href="tel:+10000000000" className="flex items-center gap-2 hover:text-white"><Phone size={16} /> (000) 000-0000</a>
+          <a href="mailto:krazelead@gmail.com" className="flex items-center gap-2 hover:text-white"><Mail size={16} /> krazelead@gmail.com</a>
         </div>
       </Container>
     </footer>
